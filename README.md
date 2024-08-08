@@ -1,5 +1,9 @@
+<img style="width:100%;height:3px;" src="./bar.gif" />
+
 # 💫 About Me:
 🔭 I’m currently working on airbnb-clone<br>👯 I’m looking to collaborate on MERN Stack Development<br>🌱 I’m currently learning React<br>💬 Ask me about Express<br>📫 Reach me keerthirajs5503@gmail.com
+
+[![](https://visitcount.itsvg.in/api?id=KeerthIrAj-5&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -19,6 +23,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KeerthIrAj-5&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
