@@ -1,5 +1,3 @@
-<img style="width:100%;height:3px;" src="./bar.gif" />
-
 # 💫 About Me:
 🔭 I’m currently working on airbnb-clone<br>👯 I’m looking to collaborate on MERN Stack Development<br>🌱 I’m currently learning React<br>💬 Ask me about Express<br>📫 Reach me keerthirajs5503@gmail.com
 
